@@ -7,4 +7,7 @@ D_mem			Data memory. initial data for slow memory
 TestBed.v			expected write operation to data memory (DMEM) of finaltest
 					
 CHIP.v			Top module of your design, including MIPS_Pipeline, I_cache, and D_cache	
-			You cannot moidy this module!!			
+			You cannot moidy this module!!	
+
+
+test calvin		
